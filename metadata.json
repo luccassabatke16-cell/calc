@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de Projeto",
+  "description": "Uma calculadora profissional de rentabilidade de projetos que analisa receitas, mão de obra, logística e custos de materiais para determinar margens e ROI. Apresenta análise de risco financeiro impulsionada por IA.",
+  "requestFramePermissions": []
+}
